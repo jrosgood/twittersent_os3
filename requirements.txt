@@ -1,0 +1,8 @@
+tweepy
+pyprind
+numpy
+matplotlib
+pandas
+scipy
+wordcloud
+
